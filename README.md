@@ -31,6 +31,3 @@ This Polynomial Calculator is a simple tool designed to perform various operatio
 2. **Operations:** Choose the desired operation from the menu.
 3. **Input Polynomials:** Enter the polynomials on which you want to perform the operation.
 4. **Result:** The calculator will display the result of the operation.
-
-## Example
-### Addition
